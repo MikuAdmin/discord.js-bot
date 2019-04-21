@@ -1,6 +1,8 @@
 # `discord.js-bot` npm library
 A library for discord bot script beginners; install with `$ npm install generic-discord-bot`
 
+_attention this requires `discord.js`_
+
 ## Version 1.0.0
 - initial publish
 
