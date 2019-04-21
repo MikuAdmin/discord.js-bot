@@ -1,6 +1,6 @@
 {
   "name": "discord.js-bot",
-  "version": "1.0.1-a",
+  "version": "1.0.1-b,",
   "description": "A library for discord bot script beginners; install with `$ npm install generic-discord-bot`",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MikuAdmin/discord.js-bot/issues"
   },
-  "homepage": "https://github.com/MikuAdmin/discord.js-bot#readme"
+  "homepage": "https://github.com/MikuAdmin/discord.js-bot#readme",
+  "dependencies": {
+    "discord.js": "*"
+  }
 }
