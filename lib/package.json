@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/MikuAdmin/discord.js-bot.git"
   },
-  "keywords": [],
+  "keywords": ["Discord", "Bot", "discord.js", "JavaScript"],
   "author": "Miku Admin <moritzwolf10@gmail.com>",
   "license": "MIT",
   "bugs": {
